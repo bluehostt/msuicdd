@@ -1,4 +1,4 @@
-token= NTE3MzcyNzQ0NzY2MDYyNTky.DuBQcg.ag-YqOzIhFl2N4EYTYEygTMDerY
+token= 
 owner= 476185102922285066 
 prefix= 3
 game= Type 3help
